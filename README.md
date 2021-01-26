@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-🎓 I am Tapajyoti Bose aka **ruppysuppy** a cross-platform developer pursuing my Bachelors in Computer Science & Engineering.
+🎓 I am Tapajyoti Bose, a cross-platform developer pursuing my Bachelors in Computer Science & Engineering.
 
 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. In 2020, I learnt Django, Electron, Flutter, React and TypeScript.
 
@@ -87,4 +87,4 @@ Reach out me on:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
-[![portfolio](https://img.shields.io/badge/Personal_Portfolio-003791?style=for-the-badge&logo=Planet&logoColor=white)](https://tapajyoti-bose.web.app/)
+[![portfolio](https://img.shields.io/badge/Portfolio-003791?style=for-the-badge&logo=Planet&logoColor=white)](https://tapajyoti-bose.web.app/)
