@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## About Me 🚀
+## 🚀 About Me
 
 🎓 I am Tapajyoti Bose, a cross-platform developer pursuing my Bachelors in Computer Science & Engineering.
 
@@ -13,14 +13,14 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 
 ✈️ I love travelling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Bhutan** in _2018_.
 
-## Achievements 🏅
+## 🏅 Achievements
 
 -   **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
 -   **Winner of Coding Competition** at _RCCIIT_ (March 2020)
 -   **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
 -   **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
 
-## Skills 🛠️
+## 🛠️ Skills
 
 ### Languages
 
@@ -63,14 +63,14 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## Workspace Setup 🖥️
+## 🖥️ Workspace Setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## Stats 📈
+## 📈 Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
@@ -80,9 +80,7 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
 
-## Social 🔗
-
-Reach out me on:
+## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
