@@ -82,8 +82,9 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 
 ## 🔗 Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
-[![github](https://img.shields.io/badge/Dev.To-0A0A0A?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/ruppysuppy)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
 [![portfolio](https://img.shields.io/badge/Portfolio-003791?style=for-the-badge&logo=Planet&logoColor=white)](https://tapajyoti-bose.web.app/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
+[![dev.to](https://img.shields.io/badge/Dev.To-0A0A0A?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/ruppysuppy)
+[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~015340206b5ea14860)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
