@@ -70,6 +70,11 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+## 📝 Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📈 Stats
 
 <div align="center">
