@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a cross-platform developer pursuing my Bachelors in Computer Science & Engineering.
+🎓 I am Tapajyoti Bose, a Cross Platform Developer (specializing in Front End Web Development) pursuing my Bachelors in Computer Science & Engineering.
 
 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. In 2020, I learnt Django, Electron, Flutter, React and TypeScript.
 
