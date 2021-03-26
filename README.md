@@ -75,6 +75,11 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximize User Experience with Infinite Scroll](https://dev.to/ruppysuppy/maximize-user-experience-with-infinite-scroll-li4)
+- [Create Dynamic Spinners only using CSS](https://dev.to/ruppysuppy/create-dynamic-spinners-only-using-css-34dh)
+- [Master useful CSS pseudo-elements](https://dev.to/ruppysuppy/css-decoded-some-useful-pseudo-elements-1ah5)
+- [CSS decoded ::before and ::after](https://dev.to/ruppysuppy/css-decoded-before-and-after-1o56)
+- [Dark Mode using CSS variables](https://dev.to/ruppysuppy/dark-mode-using-css-variables-1m3)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
