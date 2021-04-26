@@ -75,11 +75,11 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Website Using PWA: Deferred Installation](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-deferred-installation-nhb)
 - [Supercharge Your Website Using PWA: Installable Website](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-installable-website-32i3)
 - [Create the Ultimate User Experience with AOS (Animate on Scroll)](https://dev.to/ruppysuppy/create-the-ultimate-user-experience-with-aos-animate-on-scroll-39jp)
 - [Turn your website into a Cross-Platform Desktop App with less than 15 lines of code](https://dev.to/ruppysuppy/turn-your-website-into-a-cross-platform-desktop-app-with-less-than-15-lines-of-code-with-electron-44m3)
 - [Bring you website to life with SVG animations](https://dev.to/ruppysuppy/bring-you-website-to-life-with-svg-animations-252e)
-- [Maximize User Experience with Infinite Scroll](https://dev.to/ruppysuppy/maximize-user-experience-with-infinite-scroll-li4)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
