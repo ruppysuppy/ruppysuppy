@@ -1,7 +1,7 @@
 name: Fetch latest blogs workflow
 on:
     schedule:
-        - cron: "0 20 * * **"
+        - cron: "0 20 * * *"
     workflow_dispatch:
 jobs:
     update-readme-with-blog:
