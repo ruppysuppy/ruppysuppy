@@ -2,16 +2,16 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a Cross Platform Developer (specializing in Front End Web Development) pursuing my Bachelors in Computer Science & Engineering.
+🎓 I am Tapajyoti Bose, a **Cross Platform Developer** (specializing in **Front End Web Development**) pursuing my Bachelors in **Computer Science & Engineering**.
 
-👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. In 2020, I learnt Django, Electron, Flutter, React and TypeScript.
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learnt **Django**, **Electron**, **Flutter**, **React** and **TypeScript**. In 2021 till now, I learnt **Next.js**, **SASS**, **Progressive Web App (PWA)** and a bit about **Three.js**. I also got started with **freelancing** and [**blogging**](https://dev.to/ruppysuppy) recently.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from guitar, dancing (hip-hop), sketching, cooking, touch typing to some whacky ones like writing with my left hand (only aiming from mastery only in guitar though).
+🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing** though).
 
-📚 I love reading books on personal development & financial literacy. My favourites ones are **The Compound Effect**
+📚 I love reading books on **personal development** & **financial literacy**. My favourites ones are **The Compound Effect**
 by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-✈️ I love travelling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Bhutan** in _2018_.
+✈️ I love **travelling** as well, even though its been some time since I last travelled. My last trip was a solo trip to **Bhutan** in _2018_.
 
 ## 🏅 Achievements
 
@@ -95,7 +95,8 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-003791?style=for-the-badge&logo=Planet&logoColor=white)](https://tapajyoti-bose.web.app/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=6a3ecbde-fc45-4a80-9f28-884c3894399f)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
 [![dev.to](https://img.shields.io/badge/Dev.To-0A0A0A?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/ruppysuppy)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
