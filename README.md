@@ -83,12 +83,11 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Supercharge Your Website Using PWA: Background Sync](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-background-sync-1m23)
--   [Advanced Hover Effect to WOW your visitors!](https://dev.to/ruppysuppy/advanced-hover-effect-to-wow-your-visitors-58a3)
--   [Supercharge Your Website Using PWA: Deferred Installation](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-deferred-installation-nhb)
--   [Supercharge Your Website Using PWA: Installable Website](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-installable-website-32i3)
--   [Create the Ultimate User Experience with AOS (Animate on Scroll)](https://dev.to/ruppysuppy/create-the-ultimate-user-experience-with-aos-animate-on-scroll-39jp)
+- [Supercharge Your Website Using PWA: Background Sync](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-background-sync-1m23)
+- [Advanced Hover Effect to WOW your visitors!](https://dev.to/ruppysuppy/advanced-hover-effect-to-wow-your-visitors-58a3)
+- [Supercharge Your Website Using PWA: Deferred Installation](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-deferred-installation-nhb)
+- [Supercharge Your Website Using PWA: Installable Website](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-installable-website-32i3)
+- [Create the Ultimate User Experience with AOS (Animate on Scroll)](https://dev.to/ruppysuppy/create-the-ultimate-user-experience-with-aos-animate-on-scroll-39jp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
