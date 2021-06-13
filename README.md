@@ -84,11 +84,11 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Steps to Create a Mind Blowing (🤯) Portfolio](https://dev.to/ruppysuppy/steps-to-create-a-mind-blowing-portfolio-4562)
 - [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
 - [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
 - [Master useful CSS pseudo-classes](https://dev.to/ruppysuppy/master-useful-css-pseudo-classes-lh2)
 - [Zero to Hero: Get started with Open Source Projects](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7)
-- [Supercharge Your Website Using PWA: Background Sync](https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-background-sync-1m23)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
