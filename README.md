@@ -2,19 +2,19 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Cross Platform Developer** (specializing in **Front End Web Development**) pursuing my Bachelors in **Computer Science & Engineering**.
+🎓 I am Tapajyoti Bose, a **Cross-Platform Developer** (specializing in **Front End Web Development**) pursuing my Bachelors in **Computer Science & Engineering**.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learnt **Django**, **Electron**, **Flutter**, **React** and **TypeScript**. In 2021 till now, I learnt **Next.js**, **SASS**, **Progressive Web App (PWA)** and a bit about **Three.js**. I also got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) recently.
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, and **TypeScript**. In 2021, till now, I learned **Next.js**, **SASS**, **Progressive Web App (PWA)**, and a bit about **Three.js**. I also got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) recently.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing** though).
+🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing** though).
 
-📚 I love reading books on **personal development** & **financial literacy**. My favourites ones are **The Compound Effect**
-by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+📚 I love reading books on **personal development** & **financial literacy**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
 
-✈️ I love **travelling** as well, even though its been some time since I last travelled. My last trip was a solo trip to **Bhutan** in _2018_.
+✈️ I love **traveling** as well, even though it's been some time since I last traveled. My last trip was a solo trip to **Bhutan** in *2018*.
 
 ## 🏅 Achievements
 
+-   📝 **Twice #1 Weekly Blog Writer** at _Dev_ (June 2021)
 -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
@@ -38,7 +38,7 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 
 ### Front-End Development
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next-dot-js&logoColor=FFFFFF)
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -54,7 +54,7 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![fast-api](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Database
 
@@ -107,7 +107,7 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=6a3ecbde-fc45-4a80-9f28-884c3894399f)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/ruppysuppy)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/)
