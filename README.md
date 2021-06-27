@@ -84,11 +84,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Fundamentals: Concepts & Commands Simplified](https://dev.to/ruppysuppy/git-fundamentals-concepts-commands-simplified-2k4j)
 - [Dev Decoded: Lessons from publishing 20 blogs](https://dev.to/ruppysuppy/dev-decoded-lessons-from-publishing-20-blogs-blj)
 - [Steps to Create a Mind Blowing (🤯) Portfolio](https://dev.to/ruppysuppy/steps-to-create-a-mind-blowing-portfolio-4562)
 - [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
 - [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
-- [Master useful CSS pseudo-classes](https://dev.to/ruppysuppy/master-useful-css-pseudo-classes-lh2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
