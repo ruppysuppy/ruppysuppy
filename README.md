@@ -84,11 +84,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [5 awesome CSS tricks for beginners](https://dev.to/ruppysuppy/5-awesome-css-tricks-you-did-not-know-2j4a)
 - [Git Simplified: Working with Remote Repositories](https://dev.to/ruppysuppy/git-simplified-working-with-remote-repositories-106f)
 - [Git Simplified: Fundamental Concepts & Commands](https://dev.to/ruppysuppy/git-fundamentals-concepts-commands-simplified-2k4j)
 - [Dev Decoded: Lessons from publishing 20 blogs](https://dev.to/ruppysuppy/dev-decoded-lessons-from-publishing-20-blogs-blj)
 - [Steps to Create a Mind Blowing (🤯) Portfolio](https://dev.to/ruppysuppy/steps-to-create-a-mind-blowing-portfolio-4562)
-- [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
