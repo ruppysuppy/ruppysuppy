@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Cross-Platform Developer** (specializing in **Front End Web Development**) pursuing my Bachelors in **Computer Science & Engineering**.
+🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) & [**freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044), who is a **5 star** rated **Rising Talent** on _Upwork_. I am also Pursuing my Bachelors in **Computer Science & Engineering** and will graduate in mid 2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, and **TypeScript**. In 2021, till now, I learned **Next.js**, **SASS**, **Progressive Web App (PWA)**, and a bit about **Three.js**. I also got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) recently.
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, a bit about **Three.js**, and **Vercel**. I got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) quite recently as well.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing** though).
+🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing**).
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
 
@@ -14,6 +14,7 @@
 
 ## 🏅 Achievements
 
+-   ⏫ **Rising Talent** at _Upwork_ (July 2021)
 -   📝 **Twice #1 Weekly Blog Writer** at _Dev_ (June 2021)
 -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
@@ -43,6 +44,9 @@
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![graphql](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -104,7 +108,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=6a3ecbde-fc45-4a80-9f28-884c3894399f)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
