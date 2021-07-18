@@ -88,11 +88,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot: My experience after one week usage](https://dev.to/ruppysuppy/github-copilot-my-experience-after-one-week-usage-eie)
 - [5 awesome CSS tricks for beginners](https://dev.to/ruppysuppy/5-awesome-css-tricks-you-did-not-know-2j4a)
 - [Git Simplified: Working with Remote Repositories](https://dev.to/ruppysuppy/git-simplified-working-with-remote-repositories-106f)
 - [Git Simplified: Fundamental Concepts & Commands](https://dev.to/ruppysuppy/git-fundamentals-concepts-commands-simplified-2k4j)
 - [Dev Decoded: Lessons from publishing 20 blogs](https://dev.to/ruppysuppy/dev-decoded-lessons-from-publishing-20-blogs-blj)
-- [Steps to Create a Mind Blowing (🤯) Portfolio](https://dev.to/ruppysuppy/steps-to-create-a-mind-blowing-portfolio-4562)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
