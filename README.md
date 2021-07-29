@@ -6,7 +6,7 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, a bit about **Three.js**, and **Vercel**. I got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) quite recently as well.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing**).
+🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing (hip-hop)**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing**).
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
 
@@ -15,7 +15,7 @@
 ## 🏅 Achievements
 
 -   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   📝 **Twice #1 Weekly Blog Writer** at _Dev_ (June 2021)
+-   📝 **Twice Global #1 Weekly Blog Writer** at _Dev_ (June 2021)
 -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
