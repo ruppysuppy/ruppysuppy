@@ -88,11 +88,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [5 UX Tips to Become a Better Front End Developer](https://dev.to/ruppysuppy/5-ux-tips-to-become-a-better-front-end-developer-46if)
 - [5 UI Tips to Become a Better Front End Developer](https://dev.to/ruppysuppy/5-ui-tips-to-become-a-better-front-end-developer-1ae1)
 - [GitHub Copilot: My experience after one week usage](https://dev.to/ruppysuppy/github-copilot-my-experience-after-one-week-usage-eie)
 - [5 awesome CSS tricks for beginners](https://dev.to/ruppysuppy/5-awesome-css-tricks-you-did-not-know-2j4a)
 - [Git Simplified: Working with Remote Repositories](https://dev.to/ruppysuppy/git-simplified-working-with-remote-repositories-106f)
-- [Git Simplified: Fundamental Concepts & Commands](https://dev.to/ruppysuppy/git-fundamentals-concepts-commands-simplified-2k4j)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
