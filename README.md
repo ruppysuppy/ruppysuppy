@@ -14,8 +14,8 @@
 
 ## 🏅 Achievements
 
+-   📝 **Thrice Global #1 Weekly Blog Writer** at _Dev_ (August 2021)
 -   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   📝 **Twice Global #1 Weekly Blog Writer** at _Dev_ (June 2021)
 -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
