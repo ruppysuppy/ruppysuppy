@@ -88,11 +88,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [How Pros Automate Repetitive Code using VS Code](https://dev.to/ruppysuppy/how-pros-automate-repetitive-code-using-vs-code-53b)
 - [Create React App from Scratch like a Pro](https://dev.to/ruppysuppy/create-react-app-from-scratch-like-a-pro-de0)
 - [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
 - [5 tips to Boost your SEO](https://dev.to/ruppysuppy/5-tips-to-get-your-site-noticed-by-search-engines-1cnc)
 - [5 Tips to Master the Art of Clean Code](https://dev.to/ruppysuppy/5-tips-to-master-the-art-of-clean-code-57b6)
-- [5 UX Tips to Become a Better Front End Developer](https://dev.to/ruppysuppy/5-ux-tips-to-become-a-better-front-end-developer-46if)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
