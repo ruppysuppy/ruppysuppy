@@ -88,7 +88,7 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [How Pros Get Rid of Relative Imports in JS/TS](https://dev.to/ruppysuppy/how-pros-get-rid-of-relative-imports-in-js-ts-2i3f)
+- [How Pros Get Rid of Relative Imports](https://dev.to/ruppysuppy/how-pros-get-rid-of-relative-imports-in-js-ts-2i3f)
 - [How Pros Automate Repetitive Code using VS Code](https://dev.to/ruppysuppy/how-pros-automate-repetitive-code-using-vs-code-53b)
 - [Create React App from Scratch like a Pro](https://dev.to/ruppysuppy/create-react-app-from-scratch-like-a-pro-de0)
 - [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
