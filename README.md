@@ -14,6 +14,7 @@
 
 ## 🏅 Achievements
 
+-   🏆 **Top Rated** at _Upwork_ (September 2021)
 -   📝 **Thrice Global #1 Weekly Blog Writer** at _Dev_ (August 2021)
 -   ⏫ **Rising Talent** at _Upwork_ (July 2021)
 -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
