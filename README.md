@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) & [**freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044), who is a **5 star** rated **Rising Talent** on _Upwork_. I am also Pursuing my Bachelors in **Computer Science & Engineering** and will graduate in mid 2022.
+🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **5 Star** & **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelors in **Computer Science & Engineering** and will graduate in mid 2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, a bit about **Three.js**, and **Vercel**. I got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) quite recently as well.
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, a bit about **Three.js**, and **Vercel**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently as well.
 
 🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing (hip-hop)**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing**).
 
