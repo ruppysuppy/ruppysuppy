@@ -10,7 +10,7 @@
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
 
-✈️ I love **traveling** as well, even though it's been some time since I last traveled. My last trip was a solo trip to **Bhutan** in *2018*.
+✈️ I love **traveling** as well. I have been on solo trips to **Bhutan** in *2018* and to **Hyderabad, India** in _2021_.
 
 ## 🏅 Achievements
 
