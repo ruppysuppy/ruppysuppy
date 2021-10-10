@@ -95,11 +95,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
 - [5 Tips to Maximize Productivity Every Developer Must Know](https://dev.to/ruppysuppy/5-tips-to-maximize-productivity-every-developer-must-know-491e)
 - [Freelance Journey: Starting Off to Top Rated in 4 Months](https://dev.to/ruppysuppy/freelance-journey-starting-off-to-top-rated-in-4-months-3h8k)
 - [Next-Gen Way to Connect Redux Store to React Component](https://dev.to/ruppysuppy/next-gen-way-to-connect-redux-store-to-react-component-5b57)
 - [How Pros Get Rid of Relative Imports](https://dev.to/ruppysuppy/how-pros-get-rid-of-relative-imports-in-js-ts-2i3f)
-- [How Pros Automate Repetitive Code using VS Code](https://dev.to/ruppysuppy/how-pros-automate-repetitive-code-using-vs-code-53b)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
