@@ -96,11 +96,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Webpack Unpacked: A Pragmatic Guide](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
 - [Micro-Frontends: The Next Gen Way to build Web Apps](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
 - [How to Force Re-Render a React Component & Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
 - [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
 - [5 Tips to Maximize Productivity Every Developer Must Know](https://dev.to/ruppysuppy/5-tips-to-maximize-productivity-every-developer-must-know-491e)
-- [Freelance Journey: Starting Off to Top Rated in 4 Months](https://dev.to/ruppysuppy/freelance-journey-starting-off-to-top-rated-in-4-months-3h8k)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
