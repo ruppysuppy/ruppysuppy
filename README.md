@@ -96,7 +96,7 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Webpack Unpacked: A Pragmatic Guide](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
+- [Webpack Unpacked: The Modern Way to Bundle Assets for your Website](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
 - [Micro-Frontends: The Next Gen Way to build Web Apps](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
 - [How to Force Re-Render a React Component & Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
 - [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
