@@ -99,7 +99,7 @@
 - [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
 - [Webpack Unpacked: The Modern Way to Bundle Assets for your Website](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
 - [Micro-Frontends: The Next Gen Way to build Web Apps](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
-- [How to Force Re-Render a React Component & Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
+- [How to Force Re-Render a React Component &amp; Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
 - [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
 <!-- BLOG-POST-LIST:END -->
 
