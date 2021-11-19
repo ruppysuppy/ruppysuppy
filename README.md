@@ -2,20 +2,20 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **5 Star** & **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelors in **Computer Science & Engineering** and will graduate in mid 2022.
+🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **5 Star** & **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, a bit about **Three.js**, and **Vercel**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently as well.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Notable Organizations including **Material UI**, **Microsoft**, **Amazon**, **Webhint** and countless others. I am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architechture** and **Blockchaing development & De-fi Applications**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently as well.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing (hip-hop)**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing**).
+🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing (hip-hop)**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand**.
 
-📚 I love reading books on **personal development** & **financial literacy**. My favorites ones are **The Compound Effect** by *Darren Hardy* in the genre of personal development and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
+📚 I love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-✈️ I love **traveling** as well. I have been on solo trips to **Bhutan** in *2018* and to **Hyderabad, India** in _2021_.
+✈️ I love **traveling** as well. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
 
 ## 🏅 Achievements
 
+-   📝 **4 Times Global #1 Weekly Blog Writer** at _Dev_ (November 2021)
 -   🏆 **Top Rated** at _Upwork_ (September 2021)
--   📝 **Thrice Global #1 Weekly Blog Writer** at _Dev_ (August 2021)
 -   ⏫ **Rising Talent** at _Upwork_ (July 2021)
 -   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
@@ -39,7 +39,7 @@
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Cross Platfrom Development
+### Cross Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
@@ -96,11 +96,12 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [DOMs Decoded: DOM, Shadow DOM &amp; Virtual DOM](https://dev.to/ruppysuppy/doms-decoded-dom-shadow-dom-virtual-dom-28c)
-- [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
-- [Webpack Unpacked: The Modern Way to Bundle Assets for your Website](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
-- [Micro-Frontends: The Next Gen Way to build Web Apps](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
-- [How to Force Re-Render a React Component &amp; Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
+
+-   [DOMs Decoded: DOM, Shadow DOM &amp; Virtual DOM](https://dev.to/ruppysuppy/doms-decoded-dom-shadow-dom-virtual-dom-28c)
+-   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
+-   [Webpack Unpacked: The Modern Way to Bundle Assets for your Website](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
+-   [Micro-Frontends: The Next Gen Way to build Web Apps](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
+-   [How to Force Re-Render a React Component &amp; Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
@@ -118,7 +119,7 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
 [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://tapajyotibose.medium.com/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
