@@ -96,11 +96,11 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Effective ways to Grab Users&#39; Attention](https://dev.to/ruppysuppy/5-effective-ways-to-grab-users-attention-3m1m)
 - [DOMs Decoded: DOM, Shadow DOM &amp; Virtual DOM](https://dev.to/ruppysuppy/doms-decoded-dom-shadow-dom-virtual-dom-28c)
 - [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
 - [Webpack Unpacked: The Modern Way to Bundle Assets for your Website](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
 - [Micro-Frontends: The Next Gen Way to build Web Apps](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
-- [How to Force Re-Render a React Component &amp; Should you do it?](https://dev.to/ruppysuppy/how-to-force-re-render-a-react-component-should-you-do-it-5h1p)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
