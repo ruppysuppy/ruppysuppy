@@ -96,7 +96,7 @@
 ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Effective ways to Grab Users&#39; Attention](https://dev.to/ruppysuppy/5-effective-ways-to-grab-users-attention-3m1m)
+- [5 Effective UX to Grab Users&#39; Attention](https://dev.to/ruppysuppy/5-effective-ways-to-grab-users-attention-3m1m)
 - [DOMs Decoded: DOM, Shadow DOM &amp; Virtual DOM](https://dev.to/ruppysuppy/doms-decoded-dom-shadow-dom-virtual-dom-28c)
 - [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
 - [Webpack Unpacked: The Modern Way to Bundle Assets for your Website](https://dev.to/ruppysuppy/webpack-unpacked-a-pragmatic-guide-486f)
