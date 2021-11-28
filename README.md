@@ -107,6 +107,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ruppysuppy&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
 
