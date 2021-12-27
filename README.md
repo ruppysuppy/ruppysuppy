@@ -4,7 +4,7 @@
 
 🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **5 Star** & **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including **Material UI**, **Microsoft**, **Amazon**, **Webhint** and countless others. I am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, till now, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architechture** and **Blockchaing development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently as well.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2020, I learned **Django**, **Electron**, **Flutter**, **React**, **TypeScript**, and **Firebase**. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently as well.
 
 🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing (hip-hop)**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand**.
 
@@ -115,5 +115,6 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/)
