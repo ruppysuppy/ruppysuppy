@@ -2,15 +2,15 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Full Stack Software Developer** (specializing in **React** & **React Native Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on **Upwork**. I am a **Computer Science & Engineering** too, who plans to never use his degree.
+🎓 I am Tapajyoti Bose, a **Full Stack Software Developer** (specializing in **React** & **React Native Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on **Upwork**. I am a **Computer Science & Engineering** too, but plan to never use my degree.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am exceptionally enthusiastic about learning new technology & take great pride in being able to pick up skills swiftly.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am exceptionally enthusiastic about learning new technology & take great pride in my ability to pick up skills swiftly.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **break dancing**, **paddle tennis**, and **guitar** to some whacky ones like **writing with my left hand**.
 
-📚 I love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by **Darren Hardy** in the genre of personal development and **Rich Dad Poor Dad** by **Robert Kiyosaki** in the genre of financial literacy.
+📚 I love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by **Darren Hardy** in the personal development genre and **Rich Dad Poor Dad** by **Robert Kiyosaki** in the financial literacy genre.
 
-✈️ I in love with **traveling**! I have been on numerous solo trips across **SouthEast Asia**, namely **The Philippines**, **Bali**, **Thailand**, **Bhutan**, **Nepal** and serveral others
+✈️ I am in love with **traveling**! I have been on numerous solo trips across **SouthEast Asia**, namely **The Philippines**, **Bali**, **Thailand**, **Bhutan**, **Nepal**, and several others
 
 ## 🏅 Achievements
 
