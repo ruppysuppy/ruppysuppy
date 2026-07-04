@@ -96,9 +96,9 @@ Want to read more? [Check out all the blogs](https://tapajyoti-bose.medium.com/)
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-trophies.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
